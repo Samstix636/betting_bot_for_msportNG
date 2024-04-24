@@ -1,4 +1,4 @@
-#Automated Betting Bot for MsportNG
+#Automated Betting Bot for MsportNG with Betfair Integration
 
 Bot written in python 3.
 Uses EV calculations between betfair and msport to find match events with potential value.

@@ -1,0 +1,68 @@
+homeTeam,awayTeam,msportEventId,outcome,betfairOdds,msportOdds,EV,Select
+Ankaragucu,Basaksehir,sr:match:42416109,1X,1.424,1.38,-0.031,Y
+Mallorca,Granada,sr:match:41893471,1,1.865,1.83,-0.019,Y
+Udinese,Torino,sr:match:42134691,X2,1.482,1.41,-0.048,Y
+AC Monza,Cagliari,sr:match:42134683,1X,1.305,1.27,-0.027,Y
+Wolfsburg,Augsburg,sr:match:42023529,1X,1.345,1.3,-0.034,Y
+Mainz,Bochum,sr:match:42023531,1,1.845,1.83,-0.008,Y
+Union Berlin,Werder Bremen,sr:match:42023525,1X,1.343,1.29,-0.04,Y
+FC Heidenheim,Mgladbach,sr:match:42023537,X2,1.569,1.48,-0.057,Y
+Ipswich,Sheff Wed,sr:match:41888513,1,1.625,1.59,-0.022,Y
+Rotherham,Huddersfield,sr:match:41888499,2,1.88,1.81,-0.037,Y
+Stoke,Norwich,sr:match:41888501,12,1.397,1.31,-0.062,Y
+Birmingham,Watford,sr:match:41888509,12,1.397,1.31,-0.062,Y
+Plymouth,Preston,sr:match:41888521,1X,1.445,1.36,-0.059,Y
+West Brom,Bristol City,sr:match:41888507,1,1.88,1.81,-0.037,Y
+Asteras Tripolis,NFC Volos,sr:match:48368799,1X,1.399,1.32,-0.056,Y
+Middlesbrough,Blackburn,sr:match:41888519,1,1.925,1.89,-0.018,Y
+Burnley,Brentford,sr:match:41763409,X2,1.425,1.38,-0.032,Y
+Sunderland,QPR,sr:match:41888503,1X,1.546,1.45,-0.062,Y
+Luton,Nottm Forest,sr:match:41763417,12,1.355,1.3,-0.04,Y
+Osasuna,Real Madrid,sr:match:41893481,2,1.555,1.54,-0.01,Y
+FC Blau Weiss Linz,SC AUSTRIA LUSTENAU,sr:match:48514513,1,1.86,1.84,-0.011,Y
+SCR Altach,Austria Vienna,sr:match:48514605,1X,1.506,1.42,-0.057,Y
+Nantes,Strasbourg,sr:match:42004985,1X,1.335,1.3,-0.027,Y
+Salernitana,Lecce,sr:match:42134687,X2,1.413,1.34,-0.052,Y
+Standard,Eupen,sr:match:41894141,1,1.725,1.71,-0.009,Y
+Getafe,Girona,sr:match:41893479,X2,1.403,1.34,-0.045,Y
+Atromitos,PAS Giannina,sr:match:48368801,1X,1.409,1.35,-0.042,Y
+Fulham,Tottenham,sr:match:41763415,X2,1.416,1.36,-0.04,Y
+Besiktas,Antalyaspor,sr:match:42416111,1X,1.26,1.21,-0.039,Y
+Hoffenheim,Stuttgart,sr:match:42023535,2,1.845,1.81,-0.019,Y
+Fortuna Sittard,PEC Zwolle,sr:match:41980565,1,1.77,1.7,-0.04,Y
+Chicago Fire,CF Montreal,sr:match:46364497,1X,1.342,1.29,-0.039,Y
+DC Utd,Inter Miami CF,sr:match:46364499,1X,1.397,1.33,-0.048,Y
+Braga,Gil Vicente,sr:match:42146637,1,1.445,1.43,-0.01,Y
+Panaitolikos,Panserraikos,sr:match:48368803,1X,1.356,1.29,-0.049,Y
+Excelsior,RKC Waalwijk,sr:match:41980559,12,1.386,1.3,-0.062,Y
+Anderlecht,Kortrijk,sr:match:41894153,1,1.255,1.24,-0.012,Y
+Frosinone,Lazio,sr:match:42134675,X2,1.447,1.37,-0.053,Y
+Vitesse Arnhem,Almere City,sr:match:41980575,1X,1.383,1.31,-0.053,Y
+Athletic Bilbao,Alaves,sr:match:41893475,1,1.625,1.62,-0.003,Y
+Lens,Nice,sr:match:42004983,1X,1.328,1.28,-0.036,Y
+New York City,Toronto FC,sr:match:46364505,1,1.755,1.74,-0.009,Y
+Nashville SC,Charlotte FC,sr:match:46364517,1X,1.389,1.33,-0.042,Y
+Rizespor,Gaziantep FK,sr:match:42416107,1,1.86,1.81,-0.027,Y
+Juventus,Genoa,sr:match:42134681,1,1.525,1.51,-0.01,Y
+Brest,Lille,sr:match:42004989,1X,1.449,1.39,-0.04,Y
+Sevilla,Celta Vigo,sr:match:41893467,1X,1.303,1.27,-0.025,Y
+Heerenveen,Feyenoord,sr:match:41980571,2,1.48,1.45,-0.02,Y
+Monaco,Lorient,sr:match:42004977,1,1.365,1.36,-0.004,Y
+Reims,Metz,sr:match:42004981,1,1.605,1.6,-0.003,Y
+Verona,AC Milan,sr:match:42134677,2,1.725,1.71,-0.009,Y
+West Ham,Aston Villa,sr:match:41763421,12,1.347,1.29,-0.042,Y
+Clermont,Le Havre,sr:match:42004979,X2,1.55,1.48,-0.045,Y
+Freiburg,Leverkusen,sr:match:42023527,2,1.585,1.59,0.003,Y
+Leeds,Millwall,sr:match:41888515,1,1.385,1.34,-0.032,Y
+Villarreal,Valencia,sr:match:41893469,1X,1.358,1.31,-0.036,Y
+Las Palmas,Almeria,sr:match:41893483,1,2.005,1.95,-0.027,Y
+Rennes,Marseille,sr:match:42004973,12,1.389,1.32,-0.05,Y
+Dortmund,Eintracht Frankfurt,sr:match:42023523,1,1.655,1.66,0.003,Y
+Roma,Sassuolo,sr:match:42134685,1,1.445,1.41,-0.024,Y
+Atalanta,Fiorentina,sr:match:42134671,1,1.91,1.87,-0.021,Y
+Westerlo,Genk,sr:match:41894155,2,2.06,1.99,-0.034,Y
+Rayo Vallecano,Betis,sr:match:41893485,1X,1.451,1.4,-0.035,Y
+Trabzonspor,Fenerbahce,sr:match:42416113,2,1.78,1.72,-0.034,Y
+New England,FC Cincinnati,sr:match:46364521,12,1.331,1.29,-0.031,Y
+Inter,Napoli,sr:match:42134679,1,1.635,1.61,-0.015,Y
+Atletico Madrid,Barcelona,sr:match:41893477,12,1.361,1.29,-0.052,Y

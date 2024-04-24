@@ -1,0 +1,10 @@
+selenium-wire
+requests
+pytz
+fuzzywuzzy
+python-levenshtein
+aiohttp
+scrapy
+aioconsole
+playwright
+selenium

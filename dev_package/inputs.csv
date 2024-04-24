@@ -1,0 +1,11 @@
+Inputs,Value
+Minimum Odds,1.2
+Maximum Odds,2
+Time Period,14d
+Betfair Matched Amount,1000
+Minimum EV,-0.1
+Minimum Fold,5
+Maximum Fold,6
+Allowed B/L Difference < 2,0.02
+Allowed B/L Difference 2 to 10,0.2
+Allowed B/L Difference > 10,2
